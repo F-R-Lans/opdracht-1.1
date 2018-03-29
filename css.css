@@ -1,0 +1,109 @@
+h1 {
+  text-align: center;
+}
+#titel {
+  text-align: center;
+}
+body {
+  background-color: grey;
+}
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: sans-serif;
+}
+h3 {
+  text-align: center;
+}
+.smoel {
+  max-width: 300px;
+  max-height: 300px;
+  position: absolute;
+  left: 720px;
+  bottom: 500px;
+  border-radius: 50%;
+
+}
+#rutte {
+  max-width: 190px;
+  max-height: 190px;
+  position: absolute;
+  left: 650px;
+  bottom:500px;
+  border-radius: 50%;
+
+
+}
+#cda {
+  max-width: 50px;
+  max-height: 50px;
+  position: absolute;
+  left: 1350px;
+  bottom: 10px;
+}
+#d66 {
+  max-width: 70px;
+  max-height: 70px;
+  position: absolute;
+  left: 1350px;
+  bottom: 10px;
+}
+#cu {
+  max-width: 50px;
+  max-height: 50px;
+  position: absolute;
+  left: 1350px;
+  bottom: 10px;
+}
+#gl {
+  max-width: 75px;
+  max-height: 200px;
+  position: absolute;
+  left: 1339px;
+  bottom: 10px;
+}
+#pvda {
+  max-width: 70px;
+  max-height: 70px;
+  position: absolute;
+  left: 1350px;
+  bottom: 10px;
+}
+#sp {
+  max-width: 70px;
+  max-height: 70px;
+  position: absolute;
+  left: 1350px;
+  bottom: 10px;
+}
+#pvv {
+  max-width: 70px;
+  max-height: 70px;
+  position: absolute;
+  left: 1350px;
+  bottom: 10px;
+}
+#vvd {
+  max-width: 50px;
+  max-height: 50px;
+  position: absolute;
+  left: 1350px;
+  bottom: 10px;
+}
+.ict {
+  border: 2px solid white;
+}
+.party {
+  border: 5px solid white;
+  margin: 35px;
+  position: relative;
+  background-image: url("img/banner.png");
+
+}
